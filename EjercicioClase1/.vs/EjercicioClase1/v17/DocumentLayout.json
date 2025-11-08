@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\arturo\\master\\programacion\\EjercicioClase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2E5E1D-4C66-4065-8AF9-7276F7A35C5D}|EjercicioClase1\\EjercicioClase1.csproj|c:\\arturo\\master\\programacion\\ejercicioclase1\\ejercicioclase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2E5E1D-4C66-4065-8AF9-7276F7A35C5D}|EjercicioClase1\\EjercicioClase1.csproj|solutionrelative:ejercicioclase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\arturo\\master\\programacion\\EjercicioClase1\\EjercicioClase1\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioClase1\\Program.cs",
+              "ToolTip": "C:\\arturo\\master\\programacion\\EjercicioClase1\\EjercicioClase1\\Program.cs",
+              "RelativeToolTip": "EjercicioClase1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:13:06.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
