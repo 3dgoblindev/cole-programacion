@@ -78,7 +78,47 @@ class Program
             i++; //Es lo mismo que i=i+1
         }
 
-        //pares
+        //pares while
+        int pares_0 = 0;
+        i= -100;
+        while (i <= 100)
+        {
+            if (i % 2 == 0)
+            {
+                pares_0++;
+            }
+            i++;
+        }
+
+        Console.WriteLine("\nHay {0} números pares entre -100 y 100 \n", pares_0);
+
+        //ejemplo for (ups)
+        for (int j = 1; j <= 10; j++) 
+        { 
+            Console.WriteLine("Vamos por {0}", j);
+        }
+
+        //for dentro del for
+        Console.WriteLine("\n A pintar \n");
+
+        for (int fila = 1; fila <= 8; fila++) 
+        {
+            for (int columna = 1; columna <= 8; columna++) 
+            {
+                if((columna % 2 == 0) && (fila % 2 != 0) || (columna % 2 != 0) && (fila % 2 == 0))
+                {
+                    Console.Write("  ");
+                }
+                else
+                {
+                    Console.Write("* ");
+                }
+
+            }
+            Console.WriteLine();
+        }
+
+        //pares for
         int pares = 0;
         for (int j = -100; j <= 100; j += 1)
         {
@@ -87,8 +127,48 @@ class Program
                 pares++;
             }
         }
+        Console.WriteLine("\nHay {0} números pares entre -100 y 100 \n", pares_0);
 
-        Console.WriteLine("\nHay {0} números pares entre -100 y 100", pares);
+        //ej menu simple
+        Console.WriteLine("\n Menú de opciones. Dame 2 números: ");
+
+        int num1, num2;
+        num1 = Convert.ToInt32(Console.ReadLine());
+        num2 = Convert.ToInt32(Console.ReadLine());
+
+        int opcion = -1;
+
+        while (opcion != 5) 
+        {
+            Console.WriteLine("\nSelecciona una opción (1=sumar, 2=restar, 3=multiplicar, 4=dividir, 5=cerrar.");
+            opcion = Convert.ToInt32(Console.ReadLine());
+            switch (opcion) {
+                case 1:
+                    Console.WriteLine("La suma es {0}", num1 + num2);
+                    break;
+                case 2:
+                    Console.WriteLine("La resta es {0}", num1 - num2);
+                    break;
+                case 3: 
+                    Console.WriteLine("La multiplicación es {0}", num1 * num2);
+                    break;
+                case 4:
+                    if (num2 != 0)
+                    {
+                        Console.WriteLine("La división es {0}", (float)num1 / num2);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Error: No se puede dividir entre cero.");
+                    }
+                    break;
+                case 5:
+                    Console.WriteLine("Cerrando el programa...");
+                    break;
+            }
+        }
+
+
 
         Console.WriteLine("\nPresiona cualquier tecla para salir...");
         Console.ReadKey();

@@ -1,0 +1,15 @@
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\bin\Debug\net8.0\Unidad3.exe
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\bin\Debug\net8.0\Unidad3.deps.json
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\bin\Debug\net8.0\Unidad3.runtimeconfig.json
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\bin\Debug\net8.0\Unidad3.dll
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\bin\Debug\net8.0\Unidad3.pdb
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.AssemblyInfoInputs.cache
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.AssemblyInfo.cs
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.csproj.CoreCompileInputs.cache
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.sourcelink.json
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.dll
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\refint\Unidad3.dll
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.pdb
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\Unidad3.genruntimeconfig.cache
+C:\Mis cosas\Git\cole-programacion\Unidad3\Unidad3\obj\Debug\net8.0\ref\Unidad3.dll

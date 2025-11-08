@@ -13,3 +13,18 @@ C:\arturo\master\programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.pdb
 C:\arturo\master\programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.genruntimeconfig.cache
 C:\arturo\master\programacion\Unidad2\Unidad2\obj\Debug\net8.0\ref\Unidad2.dll
 C:\arturo\master\programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.sourcelink.json
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\bin\Debug\net8.0\Unidad2.exe
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\bin\Debug\net8.0\Unidad2.deps.json
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\bin\Debug\net8.0\Unidad2.runtimeconfig.json
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\bin\Debug\net8.0\Unidad2.dll
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\bin\Debug\net8.0\Unidad2.pdb
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.AssemblyInfoInputs.cache
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.AssemblyInfo.cs
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.csproj.CoreCompileInputs.cache
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.sourcelink.json
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.dll
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\refint\Unidad2.dll
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.pdb
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\Unidad2.genruntimeconfig.cache
+C:\Mis cosas\Git\cole-programacion\Unidad2\Unidad2\obj\Debug\net8.0\ref\Unidad2.dll
