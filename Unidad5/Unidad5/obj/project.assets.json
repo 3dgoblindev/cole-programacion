@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arturo\\.nuget\\packages\\": {}
+    "C:\\Users\\loren\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad5\\Unidad5\\Unidad5.csproj",
+      "projectUniqueName": "C:\\arturo\\master\\cole-programacion\\Unidad5\\Unidad5\\Unidad5.csproj",
       "projectName": "Unidad5",
-      "projectPath": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad5\\Unidad5\\Unidad5.csproj",
-      "packagesPath": "C:\\Users\\Arturo\\.nuget\\packages\\",
-      "outputPath": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad5\\Unidad5\\obj\\",
+      "projectPath": "C:\\arturo\\master\\cole-programacion\\Unidad5\\Unidad5\\Unidad5.csproj",
+      "packagesPath": "C:\\Users\\loren\\.nuget\\packages\\",
+      "outputPath": "C:\\arturo\\master\\cole-programacion\\Unidad5\\Unidad5\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Arturo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\loren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

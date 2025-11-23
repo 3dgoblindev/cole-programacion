@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad4\\",
+  "WorkspaceRootPath": "C:\\arturo\\master\\cole-programacion\\Unidad4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A376C8B-FC28-447F-9563-8B49AC9686A5}|Unidad4\\Unidad4.csproj|c:\\mis cosas\\git\\cole-programacion\\unidad4\\unidad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A376C8B-FC28-447F-9563-8B49AC9686A5}|Unidad4\\Unidad4.csproj|c:\\arturo\\master\\cole-programacion\\unidad4\\unidad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A376C8B-FC28-447F-9563-8B49AC9686A5}|Unidad4\\Unidad4.csproj|solutionrelative:unidad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,30 +21,29 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad3\\Unidad3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Unidad3\\Unidad3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Mis cosas\\Git\\cole-programacion\\Unidad3\\Unidad3\\Program.cs",
               "ToolTip": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad3\\Unidad3\\Program.cs",
-              "RelativeToolTip": "..\\Unidad3\\Unidad3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Mis cosas\\Git\\cole-programacion\\Unidad3\\Unidad3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T08:26:39.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:26:39.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad4\\Unidad4\\Program.cs",
+              "DocumentMoniker": "C:\\arturo\\master\\cole-programacion\\Unidad4\\Unidad4\\Program.cs",
               "RelativeDocumentMoniker": "Unidad4\\Program.cs",
-              "ToolTip": "C:\\Mis cosas\\Git\\cole-programacion\\Unidad4\\Unidad4\\Program.cs",
+              "ToolTip": "C:\\arturo\\master\\cole-programacion\\Unidad4\\Unidad4\\Program.cs",
               "RelativeToolTip": "Unidad4\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T08:26:22.232Z",
               "EditorCaption": ""

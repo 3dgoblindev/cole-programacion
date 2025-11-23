@@ -1,0 +1,15 @@
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\bin\Debug\net8.0\Unidad6.exe
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\bin\Debug\net8.0\Unidad6.deps.json
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\bin\Debug\net8.0\Unidad6.runtimeconfig.json
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\bin\Debug\net8.0\Unidad6.dll
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\bin\Debug\net8.0\Unidad6.pdb
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.AssemblyInfoInputs.cache
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.AssemblyInfo.cs
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.csproj.CoreCompileInputs.cache
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.sourcelink.json
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.dll
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\refint\Unidad6.dll
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.pdb
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\Unidad6.genruntimeconfig.cache
+C:\arturo\master\cole-programacion\Unidad6\Unidad6\obj\Debug\net8.0\ref\Unidad6.dll
